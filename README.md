@@ -1,57 +1,64 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm fukayatti0
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Engineer;Tech+Innovator;Open+Source+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fukayatti0&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fukayatti0?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/fukayatti0?style=for-the-badge&color=yellow&label=STARS" alt="Stars" />
-</div>
-
 ## 💫 About Me
 
-<div style="display: flex; align-items: center;">
-    <img align="right" src="/profile.jpg" width="250" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="/profile.jpg" width="250" height="250" style="border-radius: 50%; margin: 20px 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Profile Picture"/>
+    <div style="text-align: left;">
+        <h3>Quick Facts</h3>
+        <ul>
+            <li>🎓 Student at National Institute of Technology</li>
+            <li>🌱 Currently learning Rust and WebAssembly</li>
+            <li>💡 Passionate about Open Source</li>
+            <li>📷 Photography enthusiast</li>
+            <li>🎯 Goal: Becoming a Full Stack Engineer</li>
+            <li>🎮 Love gaming in free time</li>
+            <li>🎨 Digital art hobbyist</li>
+            <li>🌟 Active in tech communities</li>
+        </ul>
+    </div>
+</div>
 
 ```typescript
 const fukayatti0 = {
     age: 15,
     gender: "Male",
-    location: "Japan 🗾",
+    location: "Japan 🇯🇵",
     education: "National Institute of Technology, Ibaraki College",
     role: "Full Stack Engineer & OSS Contributor",
     workingOn: [
-        "AI-Powered Code Assistant",
-        "Smart Home IoT Platform",
-        "Tech Blog Platform"
+    "UniquePersonCounter - Video Analysis Tool",
+    "Personal Tech Blog Development (Planned)",
+    "Machine Learning Research"
     ],
     learning: [
-        "Rust Programming",
-        "Blockchain Development",
-        "Machine Learning"
+    "Rust Programming",
+    "Blockchain Development",
+    "Machine Learning",
+    "System Architecture",
+    "Cloud Native Technologies"
     ],
-    interests: ["OSS", "Tech", "Photography", "IoT"],
+    interests: ["OSS", "Tech", "Photography", "IoT", "AI", "Digital Art"],
     codingEnvironment: {
         os: "Ubuntu 22.04 LTS",
-        editor: "VSCode with Vim bindings",
-        music: "Vocaloid on Spotify 🎵",
-        desk: "Standing desk with dual monitors"
+        editor: "VSCode",
+        music: "Vocaloid Music on Spotify 🎵",
     },
     currentlyLearning: [
-        "WebAssembly",
-        "Web3",
-        "Computer Vision",
-        "Edge Computing"
+    "WebAssembly",
+    "Web3",
+    "Computer Vision",
+    "Edge Computing",
+    "DevOps Practices",
+    "Microservices Architecture"
     ],
     askMeAbout: [
-        "Web Development",
-        "System Architecture",
-        "Cloud Native",
-        "Photography"
+    "Web Development",
+    "System Architecture",
+    "Cloud Native",
+    "Photography",
+    "Tech Communities",
+    "Open Source"
     ]
 };
 ```
@@ -59,12 +66,18 @@ const fukayatti0 = {
 
 ## 🎯 Current Focus
 
-- 🔭 Working on **[UniquePersonCounter]** - A smart AI-powered video analysis tool that detects and counts stationary people.
-- 🌱 Learning **Rust** and **WebAssembly** for high-performance web applications
-- 🎯 2024 Goals:
-- 📚 Learn the basics of Rust Programming
-- 🤝 Write a website for Club
-- 📝 Start Writing technical blog posts (1 per month)
+- 🚀 Working on **[UniquePersonCounter]** - A smart AI-powered video analysis tool that detects and counts stationary people.
+- 📚 Learning **Rust** and **WebAssembly** for high-performance web applications
+
+## 💡 2024 Goals
+
+- 🔧 **Technical Growth**
+    - 🛠️ Master Rust Programming fundamentals
+    - 💻 Develop Club website from scratch
+    
+- 📝 **Content Creation**
+    - ✍️ Launch technical blog
+    - 📊 Publish monthly tech articles
 
 ## 💫 Tech Universe
 
