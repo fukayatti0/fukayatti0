@@ -13,10 +13,9 @@
         <li>🎓 Student at National Institute of Technology</li>
         <li>🌱 Currently learning Rust and WebAssembly</li>
         <li>💡 Passionate about Open Source</li>
-        <li>📷 Photography enthusiast</li>
+        <li>🎵 Vocaloid enthusiast</li>
         <li>🎯 Goal: Becoming a Full Stack Engineer</li>
         <li>🎮 Love gaming in free time</li>
-        <li>🎨 Digital art hobbyist</li>
         <li>🌟 Active in tech communities</li>
       </ul>
     </td>
@@ -25,45 +24,45 @@
 
 ```typescript
 const fukayatti0 = {
-    age: 15,
-    gender: "Male",
-    location: "Japan 🇯🇵",
-    education: "National Institute of Technology, Ibaraki College",
-    role: "Full Stack Engineer & OSS Contributor",
-    workingOn: [
-    "UniquePersonCounter - Video Analysis Tool",
-    "Personal Tech Blog Development (Planned)",
-    "Machine Learning Research"
-    ],
-    learning: [
-    "Rust Programming",
-    "Blockchain Development",
-    "Machine Learning",
-    "System Architecture",
-    "Cloud Native Technologies"
-    ],
-    interests: ["OSS", "Tech", "Photography", "IoT", "AI", "Digital Art"],
-    codingEnvironment: {
-        os: "Ubuntu 22.04 LTS",
-        editor: "VSCode",
-        music: "Vocaloid Music on Spotify 🎵",
-    },
-    currentlyLearning: [
-    "WebAssembly",
-    "Web3",
-    "Computer Vision",
-    "Edge Computing",
-    "DevOps Practices",
-    "Microservices Architecture"
-    ],
-    askMeAbout: [
-    "Web Development",
-    "System Architecture",
-    "Cloud Native",
-    "Photography",
-    "Tech Communities",
-    "Open Source"
-    ]
+        age: 15,
+        gender: "Male",
+        location: "Japan 🇯🇵",
+        education: "National Institute of Technology, Ibaraki College 🎓",
+        role: "Full Stack Engineer & OSS Contributor 💻",
+        workingOn: [
+            "UniquePersonCounter - Video Analysis Tool 📹",
+            "Personal Tech Blog Development (Planned) 📝",
+            "Machine Learning Research 🤖"
+        ],
+        learning: [
+            "Rust Programming 🦀",
+            "Blockchain Development ⛓️",
+            "Machine Learning 🧠",
+            "System Architecture 🏛️",
+            "Cloud Native Technologies ☁️"
+        ],
+        interests: ["OSS 🛠️", "Tech 💡", "IoT 🌐", "AI 🤖"],
+        codingEnvironment: {
+            os: "Ubuntu 22.04 LTS 🐧",
+            editor: "VSCode 📝",
+            music: "Vocaloid Music on Spotify 🎵",
+        },
+        currentlyLearning: [
+            "WebAssembly 🕸️",
+            "Web3 🌐",
+            "Computer Vision 👁️",
+            "Edge Computing 🖥️",
+            "DevOps Practices ⚙️",
+            "Microservices Architecture 🏗️"
+        ],
+        askMeAbout: [
+            "Web Development 🌐",
+            "System Architecture 🏛️",
+            "Cloud Native ☁️",
+            "Photography 📸",
+            "Tech Communities 🌍",
+            "Open Source 🛠️"
+        ]
 };
 ```
 </div>
