@@ -2,22 +2,26 @@
 
 ## 💫 About Me
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="/profile.jpg" width="250" height="250" style="border-radius: 50%; margin: 20px 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Profile Picture"/>
-    <div style="text-align: left;">
-        <h3>Quick Facts</h3>
-        <ul>
-            <li>🎓 Student at National Institute of Technology</li>
-            <li>🌱 Currently learning Rust and WebAssembly</li>
-            <li>💡 Passionate about Open Source</li>
-            <li>📷 Photography enthusiast</li>
-            <li>🎯 Goal: Becoming a Full Stack Engineer</li>
-            <li>🎮 Love gaming in free time</li>
-            <li>🎨 Digital art hobbyist</li>
-            <li>🌟 Active in tech communities</li>
-        </ul>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+    <img src="/profile.jpg" width="250" height="250" style="border-radius: 50%;" alt="Profile Picture"/>
+    </td>
+    <td>
+      <h3>Quick Facts</h3>
+      <ul>
+        <li>🎓 Student at National Institute of Technology</li>
+        <li>🌱 Currently learning Rust and WebAssembly</li>
+        <li>💡 Passionate about Open Source</li>
+        <li>📷 Photography enthusiast</li>
+        <li>🎯 Goal: Becoming a Full Stack Engineer</li>
+        <li>🎮 Love gaming in free time</li>
+        <li>🎨 Digital art hobbyist</li>
+        <li>🌟 Active in tech communities</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ```typescript
 const fukayatti0 = {
