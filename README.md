@@ -2,25 +2,19 @@
 
 ## 💫 About Me
 
-<table>
-  <tr>
-    <td align="center">
+<div align="center">
     <img src="/profile.png" width="200" height="200"/>
-    </td>
-    <td>
-      <h3>Quick Facts</h3>
-      <ul>
-        <li>🎓 Student at National Institute of Technology</li>
-        <li>🌱 Currently learning Rust and WebAssembly</li>
-        <li>💡 Passionate about Open Source</li>
-        <li>🎵 Vocaloid enthusiast</li>
-        <li>🎯 Goal: Becoming a Full Stack Engineer</li>
-        <li>🎮 Love gaming in free time</li>
-        <li>🌟 Active in tech communities</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+</div>
+<h3 align="center">Quick Facts</h3>
+<ul>
+    <li>🎓 Student at National Institute of Technology</li>
+    <li>🌱 Currently learning Rust and WebAssembly</li>
+    <li>💡 Passionate about Open Source</li>
+    <li>🎵 Vocaloid enthusiast</li>
+    <li>🎯 Goal: Becoming a Full Stack Engineer</li>
+    <li>🎮 Love gaming in free time</li>
+    <li>🌟 Active in tech communities</li>
+</ul>
 
 ```typescript
 const fukayatti0 = {
