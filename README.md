@@ -136,7 +136,7 @@ const fukayatti0 = {
 ## 🗺 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fukayatti0/fukayatti0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/fukayatti0/fukayatti0/output/snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <div align="center">
