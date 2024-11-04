@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&random=false&width=600&height=70&lines=Full+Stack+Engineer+%7C+Tech+Blogger;Crafting+Digital+Solutions+with+Passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&random=false&width=600&height=70&lines=Full+Stack+Engineer+%7C+Tech+Blogger" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@ const fukayatti0 = {
     learning: ["Latest Technology"],
     interests: ["OSS", "Tech", "Photography"],
     codingEnvironment: {
-        os: "Ubuntu",
+        os: "Ubuntu 22.04 LTS",
         editor: "VSCode",
         music: "Spotify 🎵"
     },
