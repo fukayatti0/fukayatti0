@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center">
-    <img src="/profile.jpg" width="250" height="250" style="border-radius: 50%;" alt="Profile Picture"/>
+    <img src="/profile.png" width="200" height="200"/>
     </td>
     <td>
       <h3>Quick Facts</h3>
