@@ -136,7 +136,12 @@ const fukayatti0 = {
 ## 🗺 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fukayatti0/fukayatti0/output/snake-dark.svg" alt="Snake Animation" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fukayatti0/fukayatti0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fukayatti0/fukayatti0/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/fukayatti0/fukayatti0/output/github-contribution-grid-snake.svg" />
+</picture>
+</picture>
 </div>
 
 <div align="center">
