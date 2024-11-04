@@ -2,50 +2,69 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&random=false&width=600&height=70&lines=Full+Stack+Engineer+%7C+Tech+Blogger" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Engineer;Tech+Innovator;Open+Source+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fukayatti0&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fukayatti0?style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/fukayatti0?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=fukayatti0&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/fukayatti0?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/fukayatti0?style=for-the-badge&color=yellow&label=STARS" alt="Stars" />
 </div>
 
-## 🧑‍💻 About Me
+## 💫 About Me
 
 <div style="display: flex; align-items: center;">
     <img align="right" src="/profile.jpg" width="250" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-
 
 ```typescript
 const fukayatti0 = {
     age: 15,
     gender: "Male",
     location: "Japan 🗾",
-    education: "National Institue of Technology,Ibaraki College",
-    role: "Full Stack Engineer",
-    workingOn: ["Current Project"],
-    learning: ["Latest Technology"],
-    interests: ["OSS", "Tech", "Photography"],
+    education: "National Institute of Technology, Ibaraki College",
+    role: "Full Stack Engineer & OSS Contributor",
+    workingOn: [
+        "AI-Powered Code Assistant",
+        "Smart Home IoT Platform",
+        "Tech Blog Platform"
+    ],
+    learning: [
+        "Rust Programming",
+        "Blockchain Development",
+        "Machine Learning"
+    ],
+    interests: ["OSS", "Tech", "Photography", "IoT"],
     codingEnvironment: {
         os: "Ubuntu 22.04 LTS",
-        editor: "VSCode",
-        music: "Spotify 🎵"
+        editor: "VSCode with Vim bindings",
+        music: "Vocaloid on Spotify 🎵",
+        desk: "Standing desk with dual monitors"
     },
-    currentlyLearning: ["Web3", "AI/ML"],
-    askMeAbout: ["Web Dev", "Tech", "Photography"]
+    currentlyLearning: [
+        "WebAssembly",
+        "Web3",
+        "Computer Vision",
+        "Edge Computing"
+    ],
+    askMeAbout: [
+        "Web Development",
+        "System Architecture",
+        "Cloud Native",
+        "Photography"
+    ]
 };
 ```
 </div>
 
 ## 🎯 Current Focus
 
-- 🔭 Working on **[Current Project]**
-- 🌱 Learning **[Technology]**
-- 👥 Looking to collaborate on **Open Source Projects**
-- 📖 Reading **[Tech Book]**
-- 🎯 2024 Goals: Contribute more to Open Source projects
+- 🔭 Working on **[UniquePersonCounter]** - A smart AI-powered video analysis tool that detects and counts stationary people.
+- 🌱 Learning **Rust** and **WebAssembly** for high-performance web applications
+- 🎯 2024 Goals:
+- 📚 Learn the basics of Rust Programming
+- 🤝 Write a website for Club
+- 📝 Start Writing technical blog posts (1 per month)
 
 ## 💫 Tech Universe
 
@@ -92,15 +111,15 @@ const fukayatti0 = {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=fukayatti0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=fukayatti0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fukayatti0&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fukayatti0&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fukayatti0&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fukayatti0&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Most Used Languages" />
       </td>
       <td width="50%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fukayatti0&theme=tokyonight" alt="Contribution Time" />
@@ -115,11 +134,11 @@ const fukayatti0 = {
   <img src="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
-## 🎵 Vibing to
+## 🎵 Currently Vibing to
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lmxge4txoqvojaecos246eyire&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lmxge4txoqvojaecos246eyire&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lmxge4txoqvojaecos246eyire&cover_image=true&theme=novatorem&show_offline=false&background_color=00000000&interchange=true" alt="spotify-github-profile" />
   </a>
 </div>
 
@@ -133,7 +152,7 @@ const fukayatti0 = {
 
 </div>
 
-## 🗺 Contribution Graph
+## 🗺 Contribution Snake
 
 <div align="center">
 <picture>
@@ -141,9 +160,8 @@ const fukayatti0 = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fukayatti0/fukayatti0/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/fukayatti0/fukayatti0/output/github-contribution-grid-snake.svg" />
 </picture>
-</picture>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 </div>
