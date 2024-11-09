@@ -158,8 +158,7 @@ const fukayatti0 = {
   
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/fukaya_tti0)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fukaya_tti0)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/fukayatti0)
-
+[![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/fukayatti0)
 
 </div>
 
