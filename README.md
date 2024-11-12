@@ -144,7 +144,7 @@ const fukayatti0 = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=darkhub&column=7&no-frame=true&no-bg=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=nord&column=7&no-frame=true&no-bg=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=dark&column=7&no-frame=true&no-bg=true" />
     <img src="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </picture>
@@ -165,6 +165,7 @@ const fukayatti0 = {
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/fukayatti0)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fukayatti0)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/fukayatti0)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/fukayatti0)
 
 </div>
 
