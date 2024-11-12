@@ -79,7 +79,7 @@ const fukayatti0 = {
 ## 💫 Tech Universe
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,react,nextjs,astro,tailwindcss,linux,docker,githubactions,vercel&theme=dark&perline=4" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,rust,cpp,react,nextjs,astro,tailwindcss,webassembly,linux,docker,githubactions,vercel" alt="Tech Stack" />
 </div>
 
 <details>
@@ -89,6 +89,7 @@ const fukayatti0 = {
         <img src="https://custom-icon-badges.demolab.com/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" >
         <img src="https://custom-icon-badges.demolab.com/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white" alt="C++" />
 </div>
 </details>
@@ -101,6 +102,7 @@ const fukayatti0 = {
         <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://custom-icon-badges.demolab.com/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
         <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://custom-icon-badges.demolab.com/badge/WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
 </div>
 </details>
 
@@ -110,7 +112,7 @@ const fukayatti0 = {
     <br>
         <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
         <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />    
+        <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
         <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 </details>
@@ -141,7 +143,11 @@ const fukayatti0 = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=darkhub&column=7&no-frame=true&no-bg=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=dark&column=7&no-frame=true&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fukayatti0&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 ## 🎵 Currently Vibing to
