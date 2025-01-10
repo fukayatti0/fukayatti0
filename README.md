@@ -65,7 +65,7 @@ const fukayatti0 = {
 - 🚀 Working on **[UniquePersonCounter]** - An AI-powered video analysis tool that detects and counts stationary people
 - 📚 Learning **Rust** and **WebAssembly** for high-performance web applications
 
-## 💡 2024-2025 Goals
+## 💡 2025 Goals
 
 ### 🔧 Technical Growth
 
