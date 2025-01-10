@@ -65,7 +65,31 @@ const fukayatti0 = {
 - 🚀 Working on **[UniquePersonCounter]** - An AI-powered video analysis tool that detects and counts stationary people
 - 📚 Learning **Rust** and **WebAssembly** for high-performance web applications
 
-## 💡 2024 Goals
+## 💡 2024-2025 Goals
+
+### 🔧 Technical Growth
+
+- 🛠️ Master **Backend Development** with modern architectures
+- 💻 Build mobile applications with **Expo**
+- 🤖 Create **IoT projects** with Raspberry Pi
+- 🌐 Develop scalable API services
+
+### 📝 Content Creation
+
+- ✍️ Write technical articles regularly
+- 📚 Create tutorials for backend development
+- 🔌 Share IoT project experiences
+- 📱 Document mobile app development journey
+
+### 🛠 Project Goals
+
+- 🤖 Build home automation system with Raspberry Pi
+- 📱 Release mobile app
+- ⚙️ Develop robust backend services
+- 🌟 Contribute to open-source projects
+
+<details>
+<summary>💡 2024 Goals</summary>
 
 ### 🔧 Technical Growth
 
@@ -76,6 +100,8 @@ const fukayatti0 = {
 
 - ✍️ Launch technical blog
 - 📊 Publish monthly tech articles
+
+</details>
 
 ## 💫 Tech Universe
 
